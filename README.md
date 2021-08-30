@@ -16,3 +16,7 @@ a = (a - 1) + (a - 2) - 1
 Palindrome:
 
 The recursion works by taking the outer two characters that make the string and compares them.  If that fails, then the method ends and says that the string is not a palindrome.  If it passes, it sends the remaining string back into the method to do it again until the base cases are satisfied.  The base cases of 0 and 1 string length are self explanatory.
+
+---
+
+This was created for College of the Sequoias' (Tulare, CA) COMP 008 - Programming Concepts.
